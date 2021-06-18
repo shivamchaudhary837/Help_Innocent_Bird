@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518861209627",
+    "project_id": "help-innocent-bird",
+    "storage_bucket": "help-innocent-bird.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518861209627:android:1820915477b1bf1ab038be",
+        "android_client_info": {
+          "package_name": "com.example.helpinnocentbird"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518861209627-71l9gprt7hih3stbd1l022603pljuqgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqHcxa1wRZw2R5kBeYZ_MsttsyamiayPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518861209627-71l9gprt7hih3stbd1l022603pljuqgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

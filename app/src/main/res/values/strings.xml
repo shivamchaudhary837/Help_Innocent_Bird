@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Help Innocent Bird</string>
+
+    <string name="info">The innocent bird needs to reach 200 points
+        in order to escape from enemies and reach its nest.
+        Can you help the bird in this challenging task?</string>
+    <string name="congrats">Congrulations, You won the game!!</string>
+    <string name="start_game">Start game</string>
+    <string name="_10_points">10 Points</string>
+    <string name="coin">Coin</string>
+    <string name="enemy3">Enemy3</string>
+    <string name="enemy2">Enemy2</string>
+    <string name="enemy1">Enemy1</string>
+    <string name="bird">Bird</string>
+</resources>
